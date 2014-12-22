@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A godly sermon preached in the court at Greenwich the firste Sonday after the Epiphanie, Anno Domini
+
 #####Body#####
-A godly sermon preached in the court at Greenwich the firste Sonday after the Epiphanie, Anno Domini
+
+1. A SERMON preached in the Court at Greenewitch the first Sonday after the Epiphanie An. Do. 1552.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
